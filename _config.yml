@@ -1,8 +1,28 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Reef Referral Documentation
+description: Learn how to get started with our referral system for iOS subscription apps.
 theme: just-the-docs
+color_scheme: reef
 
-url: https://just-the-docs.github.io
+
+url: https://docs.reefreferral.com/
+logo: "/assets/images/logo.svg"
+favicon_ico: "/assets/images/favicon.png"
+
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Home: https://reefreferral.com
+
+callouts:
+  warning:
+    title: ❗️Warning
+    color: red
+  note:
+    title: 📘 Note
+    color: blue
+  alert:
+    title: 🚧 Alert
+    color: yellow
+  done:
+    title: 👍 Done
+    color: green
+
