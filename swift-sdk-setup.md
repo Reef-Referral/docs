@@ -15,7 +15,9 @@ The Reef Referral SDK is available in native Swift and supports iOS 13 and later
 
 ## Installation
 
-The Reef Referral SDK is available for Swift through Swift Package Dependencies. You will receive access to the SDK on GitHub during the rollout phase.
+You can use Swift Package Manager to add Reef Referral to your Xcode project. Select File » Add Packages Dependencies... and enter the repository URL `https://github.com/Reef-Referral/reef-referral-ios` into the search bar (top right). 
+
+Click "Add Package". The library should have been added to the Package Dependencies section and you should now be able to `import ReefReferral` into your source files.
 
 ## Setup
 
