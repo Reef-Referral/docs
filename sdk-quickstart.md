@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # SDK Quickstart
-This guide you will walk you through how to add referral system to your subscription app
+This guide you will walk you through how to add referral system to your subscription app 
 
 -------
 
