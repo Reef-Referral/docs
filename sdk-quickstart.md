@@ -272,9 +272,9 @@ You can also manually grant the rewards, not using the offer code system. This i
 
 To use the manual mode, check when the sender or receiver status becomes `eligible` and start your logic responsible for granting the referral. After the reward is granted, use the following methods to notify Reef Referral so that the status of the user can be updated.   
 
-`ReefReferral.shared.triggerSenderSuccess`– when the sender (or referrer) reward has been granted by your app. 
+`ReefReferral.shared.triggerSenderSuccess()`– when the sender (or referrer) reward has been granted by your app. 
 
-`ReefReferral.shared.triggerSenderSuccess`– when the receiver (or referred user) reward has been granted by your app.
+`ReefReferral.shared.triggerReceiverSuccess()`– when the receiver (or referred user) reward has been granted by your app.
 
 ## 4.3 Reacting to status changes
 
